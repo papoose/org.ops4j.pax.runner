@@ -1,0 +1,8 @@
+<platform>
+
+  <name>Papoose 1.0.0</name>
+  <system>link:classpath:runner-links/org.papoose.core-framework-1.0.0.link</system>
+
+  <profile name="minimal" default="true"/>
+
+</platform>
